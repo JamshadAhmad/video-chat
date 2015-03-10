@@ -1,0 +1,3 @@
+New issue: after editing a CV successfully, the CV needs to be automatically archived: 
+http://www.rocketinternships.com/admin/dashboard/cvs 
+Currently this needs to be done manually to remove the CV from the work bin.
