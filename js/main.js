@@ -53,7 +53,7 @@ if (!room) {
   //
 //}
 
-var socket = io.connect();
+var socket = io.connect('http://localhost:3000');
 
 if (room !== '') {
   console.log('Create or join room', room);
